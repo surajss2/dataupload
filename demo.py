@@ -43,5 +43,8 @@ if chart_visual == "Day's view":
     plt.plot(df3['Wind speed - AVE [m/s]'], df3["Gearbox oil tank temp. - AVE [C]"], label='Relation')
     st.pyplot()
 
+if chart_visual=="Day's view" :
+
+
 
 
